@@ -1,0 +1,2 @@
+verilog isim_temp "inst_rom.v"
+verilog isim_temp "E:/Xilinx/13.2/ISE_DS/ISE//verilog/src/glbl.v"

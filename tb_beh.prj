@@ -1,0 +1,8 @@
+verilog work "adder.v"
+verilog work "regfile.v"
+verilog work "inst_rom.v"
+verilog work "data_ram.v"
+verilog work "alu.v"
+verilog work "single_cycle_cpu.v"
+verilog work "tb.v"
+verilog work "E:/Xilinx/13.2/ISE_DS/ISE//verilog/src/glbl.v"
